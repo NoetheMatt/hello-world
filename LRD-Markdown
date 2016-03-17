@@ -13,4 +13,47 @@ The resources maintained in the Learning Resources Database may require the use 
 **Basic Searching**
 
 Searching the LRD is a straightforward process designed around keyword searching and result refining limiters. From the default search page, searching the database simply requires entering a keyword and clicking search. Results will load to the right of the search bar. For example, conducting a keyword search (no limiters) for “Journal” will create the following results page:
-![JournalSearchResult](https://fuzzyundertones.files.wordpress.com/2014/03/grumpy-cat-nogrumpy-cat-sunday-true-stories-with-gill-xmzwolqw.jpg)
+![JournalKeyResult](https://www.dropbox.com/s/v8y64dvsdt5fexa/defaultresultexample.png?dl=1)
+Note that when conducting a keyword search, if the searched term appears in any searchable field (which include Title, Description, Format, or Subjects), that item will display in the results. 
+
+**Advanced Searching**
+
+Advanced searching in the LRD refers to making use of the available “Refine Results” filters found under the search bar. These filters include Subject Area, Format, Archived Materials, and Date Last Revised. 
+
+*Subject Area*
+
+Subject Area refers to the major topic that a given learning resource focuses on. For example, a Quick Tour video on the use of PubMed Commons is tagged with the Subject “PubMed”. To apply one or more Subject Area filters to a search, simply click on the drop-down menu and check the box of the area(s) you wish to be included in your search results. [Note: you must click the checkbox directly. Clicking the Subject Area name will result in an error.]
+![SubjectArea](https://www.dropbox.com/s/cmkkfexu6y91l1k/subjectareaexpandedwnote.png?dl=1)
+
+*Format*
+
+Format refers to the type of learning resource in question and includes distinctions such as “Quick Tour”, “Webinar”, “Webpage”, and “PowerPoint”. To apply one or more Format filters to a search, simply click on the drop-down menu and check the box of the area(s) you wish to be included in your search results. [Note: you must click the checkbox directly. Clicking the Format name will result in an error.]
+![Format](https://www.dropbox.com/s/fkhhnnxlc5dwwii/formatexpandedwnote.png?dl=1)
+
+*Archived Materials*
+
+Archived Materials refers to resources in the database that are either prior versions of more current resources or are considered no longer relevant to most users. Examples of archived resources include presentations from a prior Medical Library Association Annual Meetings, outdated Web Portals, etc. By default, resources tagged as Archived do not display in search results. To include these resources, simply check the “Include Archived Materials” option.
+![Archived](https://www.dropbox.com/s/ge072038yb7z5q0/includearchivedcheckedwnote.png?dl=1)
+
+*Date Last Revised*
+
+Date Last Revised refers to the last time the learning resource was updated and can be useful in ensuring the most recent, relevant resources are found. To specific a limited date-range, either click inside either the “From” or “To” text box and navigate to a specific date using the drop-down calendar or type out a specific date. Note that if typing in a date, it must be written in Month/Day/Year format (03/15/2016) or the search will fail.
+![DateLast](https://www.dropbox.com/s/ax3c0vfrmz5uyjg/dateexpandedwnote.png?dl=1)
+
+*Reset*
+
+Clicking the Reset button will clear all current refinement filters, the current search, and the current results, returning the search page to its default state. 
+![Reset](https://www.dropbox.com/s/9b9w81lcfg7g3hz/resetwnote.png?dl=1)
+
+**Limitations**
+
+At present, the Learning Resources Database does not include:
+* Filters for Language or Specific Fields (Title, Date, etc.)
+* Results Sorting
+* Boolean operator support (AND, OR, NOT)
+* Exact Search Matching
+
+**Understanding the Results**
+
+Learning Resources Database search results are displayed 10 items at a time, in no particular order. The results are displayed as a summary of available information, as seen below.
+![Results](https://www.dropbox.com/s/hqakrzvoaiy49y0/pubmedsearchresultshortver.png?dl=1)
