@@ -1,6 +1,16 @@
 **Effectively Searching the Learning Resources Database**
+
 *Last update: March 17, 2016*
 
 **Introduction**
+
 The Learning Resources Database (LRD) collects all educational materials created by the National Library of Medicine. These materials include videos, tutorials, webinars, and other resources that provide user education on the vast array of National Library of Medicine products and services, including PubMed, PubMed Central, Medline, and more.
 
+**A Note about Software Requirements**
+
+The resources maintained in the Learning Resources Database may require the use of specific software. This software may include Adobe Connect, Adobe Flash Player, Adobe Acrobat Reader, Microsoft Office, and/or Microsoft Silverlight. For assistance with this software, please refer to the manufacturer.
+
+**Basic Searching**
+
+Searching the LRD is a straightforward process designed around keyword searching and result refining limiters. From the default search page, searching the database simply requires entering a keyword and clicking search. Results will load to the right of the search bar. For example, conducting a keyword search (no limiters) for “Journal” will create the following results page:
+![JournalSearchResult](https://fuzzyundertones.files.wordpress.com/2014/03/grumpy-cat-nogrumpy-cat-sunday-true-stories-with-gill-xmzwolqw.jpg)
